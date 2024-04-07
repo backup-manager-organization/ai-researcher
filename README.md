@@ -1,5 +1,7 @@
 # Fork of [AI-Researcher](https://github.com/mshumer/ai-researcher) by [@mattshumer](https://github.com/mshumer)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G6GA2Od-x_cf-xt0B5jOz0Me-bBAsXVz?usp=sharing)
+Original Project: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mshumer/ai-researcher/blob/main/Claude_Researcher.ipynb)
+Claude3 AI-Researcher (Google API): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FBS-7q6d8ZgtBB9zmnBklVcl2Ie7sOUw?usp=sharing)
+Low-cost Haiku-Researcher: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Np_16Jasisup-1xnf3PMttORhGoVS7yM?usp=sharing)
 
 This project is an evolving fork of the `ai-researcher` repository originally created by [@mattshumer](https://github.com/mshumer). The original version utilized Claude 3 and SERPAPI to conduct research. This fork modifies the original project to use Google Search API for searching capabilities. Below are the details of the modifications:
 Changes will be taking place quite a bit, but pushed updates may be sparse depending on free personal time
